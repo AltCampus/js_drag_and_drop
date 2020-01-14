@@ -1,4 +1,4 @@
-# Document Object Model
+# Drag and Drop
 
 The aim of the exercise is to understand the below topics.
 
